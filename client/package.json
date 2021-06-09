@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "holder": "0.0.0",
+    "jquery": "^3.6.0",
+    "popper": "^1.0.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^16.14.0",
+    "react-scripts": "1.0.17",
+    "spotify-web-api-js": "^0.22.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
